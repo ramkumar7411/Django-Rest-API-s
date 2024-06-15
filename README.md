@@ -13,7 +13,6 @@ Ionic is a mobile app framework that uses Angular to build Native Mobile Applica
 Full Course is here: [http://joincfe.com/courses/django-angular-ionic](https://www.codingforentrepreneurs.com/courses/django-angular-ionic/)
 
 
-
 ### Section 1: Django Backend Setup
 *1 - Welcome - No Code*
 
